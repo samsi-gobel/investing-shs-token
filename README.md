@@ -1,31 +1,26 @@
 <!-- ============================================ -->
-<!-- HEADER BADGES -->
-<!-- ============================================ -->
-
-<div align="center">
-
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/investing-shs-token)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/investing-shs-token)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/investing-shs-token?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/investing-shs-token?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)
-
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white)
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=OpenZeppelin&logoColor=white)
-![Uniswap](https://img.shields.io/badge/Uniswap-FF007A?style=for-the-badge&logo=Uniswap&logoColor=white)
-
-</div>
-
----
-
-<!-- ============================================ -->
 <!-- LOGO & TITLE -->
 <!-- ============================================ -->
 
 <div align="center">
 
-<img src="https://investingcoin.id/shscoin.jpg" width="200" alt="INVESTING Logo" />
+<img src="https://raw.githubusercontent.com/samsi-gobel/investing-shs-token/main/shscoin.jpg" width="500" alt="INVESTING Logo">
+
+# 🏦 INVESTING (SHS)
+
+### Tokenized Fund — 151,578,246.52 USD Backed
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-investingcoin.id-ffd700?style=for-the-badge&logo=google-chrome&logoColor=white)](https://investingcoin.id/) [![Etherscan](https://img.shields.io/badge/Etherscan-View_Contract-3C3C3D?style=for-the-badge&logo=etherscan&logoColor=white)](https://etherscan.io/address/0x3259C6ffa8a2aC3FA2E675F425d1baA565309ce8) [![Uniswap](https://img.shields.io/badge/Uniswap-Trade_SHS-FF007A?style=for-the-badge&logo=uniswap&logoColor=white)](https://app.uniswap.org/swap?outputCurrency=0x3259C6ffa8a2aC3FA2E675F425d1baA565309ce8)
+
+</div>
+
+</div>
+
+---
+
+<div align="center">
 
 # 🏦 INVESTING (SHS)
 
@@ -34,6 +29,8 @@
 [![Website](https://img.shields.io/badge/Website-investingcoin.id-ffd700?style=for-the-badge&logo=google-chrome&logoColor=white)](https://investingcoin.id)
 [![Etherscan](https://img.shields.io/badge/Etherscan-View_Contract-3C3C3D?style=for-the-badge&logo=etherscan&logoColor=white)](https://etherscan.io/address/0x3259C6ffa8a2aC3FA2E675F425d1baA565309ce8)
 [![Uniswap](https://img.shields.io/badge/Uniswap-Trade_SHS-FF007A?style=for-the-badge&logo=uniswap&logoColor=white)](https://app.uniswap.org/swap?outputCurrency=0x3259C6ffa8a2aC3FA2E675F425d1baA565309ce8)
+
+</div>
 
 </div>
 
